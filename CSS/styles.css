@@ -1,0 +1,10 @@
+body{
+	background: linear-gradient(to top, black, grey);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0;
+}
+.navbar-transparent{
+	background-color: rgba(0, 0, 0, .5);
+	border: 0;
+}
